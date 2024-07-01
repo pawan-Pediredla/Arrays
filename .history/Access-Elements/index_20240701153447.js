@@ -7,3 +7,8 @@ let secondNumber  = numbers[1]
 console.log(firstFruit)
 console.log(secondNumber)
 
+let fruitss=['orange','apple']
+let newConstrc=new Array(1,2,3,4)
+newConstrc.push(4)
+newConstrc.shift()
+newConstrc.unshift()

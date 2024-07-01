@@ -10,4 +10,4 @@ newConstrc.unshift("hi")
 let fruitsz  =[
     1,2,3,4
 ]
-console.log(fruitsz.slice(0,2))
+console.log(fruitsz)
