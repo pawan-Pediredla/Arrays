@@ -1,0 +1,6 @@
+let fruits  =[
+    'orange'
+    ,
+    'mango'
+    ''
+]
