@@ -1,4 +1,4 @@
- let fruits =['orange','apple','mango']
+export let fruits =['orange','apple','mango']
 console.log(fruits)
 let numbers = new Array(1,2,3,4,5)
 console.log(numbers)
